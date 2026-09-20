@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Akshat Jain
+# Hello , I'm Akshat Jain
 
-### 💻 Full-Stack Developer | Problem Solver | Tech Enthusiast
+###  Full-Stack Developer | Problem Solver | Tech Enthusiast
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Building+Web+Applications;Learning+New+Technologies;Turning+Ideas+Into+Code" alt="Typing SVG" />
@@ -8,21 +8,21 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm a passionate **Full-Stack Developer** who enjoys building web applications and solving programming problems.
 
-- 🔭 Currently working on **Web Development & Full-Stack Projects**
-- 🌱 Continuously learning **new technologies and development practices**
-- 💡 Interested in **Software Development, Web Technologies & Problem Solving**
-- 🧩 I enjoy turning ideas into **functional and user-friendly applications**
-- 📫 Reach me at **[akshat6070@gmail.com](mailto:akshat6070@gmail.com)**
+-  Currently working on **Web Development & Full-Stack Projects**
+-  Continuously learning **new technologies and development practices**
+-  Interested in **Software Development, Web Technologies & Problem Solving**
+-  I enjoy turning ideas into **functional and user-friendly applications**
+-  Reach me at **[akshat6070@gmail.com](mailto:akshat6070@gmail.com)**
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 💻 Languages
+### Languages
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
@@ -32,7 +32,7 @@ I'm a passionate **Full-Stack Developer** who enjoys building web applications a
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3"/>
 </p>
 
-### 🌐 Frontend
+###  Frontend
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React"/>
@@ -40,7 +40,7 @@ I'm a passionate **Full-Stack Developer** who enjoys building web applications a
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45" alt="Tailwind CSS"/>
 </p>
 
-### ⚙️ Backend & Databases
+###  Backend & Databases
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45" alt="Node.js"/>
@@ -50,7 +50,7 @@ I'm a passionate **Full-Stack Developer** who enjoys building web applications a
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="45" height="45" alt="SQLite"/>
 </p>
 
-### 🔧 Tools
+###  Tools
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="45" height="45" alt="Postman"/>
@@ -58,16 +58,7 @@ I'm a passionate **Full-Stack Developer** who enjoys building web applications a
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshat-developr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat-developr&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
+## GitHub Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshat-developr&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
@@ -75,7 +66,7 @@ I'm a passionate **Full-Stack Developer** who enjoys building web applications a
 
 ---
 
-## 🧠 Problem Solving
+## Problem Solving
 
 <p align="center">
   <a href="https://leetcode.com/akshat-developr/">
@@ -87,14 +78,11 @@ I regularly practice **Data Structures & Algorithms** and work on improving my p
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/akshat-jain-8765b6384">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://leetcode.com/akshat-developr">
-    <img src="https://img.shields.io/badge/LeetCode-Follow-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
   <a href="mailto:akshat6070@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -103,22 +91,7 @@ I regularly practice **Data Structures & Algorithms** and work on improving my p
 
 ---
 
-## 📌 Featured Projects
-
-Here are some of the projects I've worked on:
-
-| Project | Description | Technologies |
-|---|---|---|
-| 🌡️ **Temperature Converter** | Desktop application for converting temperatures between Celsius, Fahrenheit and Kelvin | Python, Tkinter |
-| 🎯 **Guess the Number** | Interactive number guessing game with hints and attempt tracking | Python, Tkinter |
-| 🧩 **Sudoku Solver** | Sudoku solver using backtracking and validation | Python |
-| 🛒 **E-Commerce Scraper** | Extracts product information and exports data to CSV | Python, Requests, BeautifulSoup, Pandas |
-
-> 🚀 More projects and experiments are available in my repositories.
-
----
-
-## 🌱 Currently Learning
+##  Currently Learning
 
 - 🔹 Advanced JavaScript
 - 🔹 React.js
@@ -134,9 +107,5 @@ Here are some of the projects I've worked on:
 I'm always interested in learning, building projects, and exploring new technologies.
 
 <p align="center">
-  <b>💻 Code • 🚀 Build • 🧠 Learn • 🔥 Improve</b>
-</p>
-
-<p align="center">
-  ⭐ If you find my projects useful, consider giving them a star!
+  <b>💻 Code ----> Build ----> Learn ----> Improve</b>
 </p>
