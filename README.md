@@ -1,6 +1,6 @@
-# Hello , I'm Akshat Jain
+# Hello, I'm Akshat Jain
 
-###  Full-Stack Developer | Problem Solver | Tech Enthusiast
+### Full-Stack Developer | Problem Solver | Tech Enthusiast
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Building+Web+Applications;Learning+New+Technologies;Turning+Ideas+Into+Code" alt="Typing SVG" />
@@ -8,19 +8,20 @@
 
 ---
 
-##  About Me
+## About Me
 
-I'm a passionate **Full-Stack Developer** who enjoys building web applications and solving programming problems.
+I'm a passionate **Full-Stack Developer** who enjoys building web applications, automating workflows, and solving programming problems.
 
--  Currently working on **Web Development & Full-Stack Projects**
--  Continuously learning **new technologies and development practices**
--  Interested in **Software Development, Web Technologies & Problem Solving**
--  I enjoy turning ideas into **functional and user-friendly applications**
--  Reach me at **[akshat6070@gmail.com](mailto:akshat6070@gmail.com)**
+- Currently working on **Web Development & Full-Stack Projects**
+- Exploring **Workflow Automation with n8n**
+- Continuously learning **new technologies and development practices**
+- Interested in **Software Development, Web Technologies, Automation & Problem Solving**
+- I enjoy turning ideas into **functional and user-friendly applications**
+- Reach me at **[akshat6070@gmail.com](mailto:akshat6070@gmail.com)**
 
 ---
 
-##  Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -32,7 +33,7 @@ I'm a passionate **Full-Stack Developer** who enjoys building web applications a
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3"/>
 </p>
 
-###  Frontend
+### Frontend
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React"/>
@@ -40,7 +41,7 @@ I'm a passionate **Full-Stack Developer** who enjoys building web applications a
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45" alt="Tailwind CSS"/>
 </p>
 
-###  Backend & Databases
+### Backend & Databases
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45" alt="Node.js"/>
@@ -50,10 +51,11 @@ I'm a passionate **Full-Stack Developer** who enjoys building web applications a
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="45" height="45" alt="SQLite"/>
 </p>
 
-###  Tools
+### Tools & Automation
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="45" height="45" alt="Postman"/>
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="45" height="45" alt="n8n"/>
 </p>
 
 ---
@@ -91,21 +93,32 @@ I regularly practice **Data Structures & Algorithms** and work on improving my p
 
 ---
 
-##  Currently Learning
+## Currently Learning
 
-- 🔹 Advanced JavaScript
-- 🔹 React.js
-- 🔹 Node.js & Express
-- 🔹 Data Structures & Algorithms
-- 🔹 Database Management
-- 🔹 AI & Generative AI
+- Advanced JavaScript
+- React.js
+- Node.js & Express
+- Data Structures & Algorithms
+- Database Management
+- AI & Generative AI
+- n8n & Workflow Automation
 
 ---
 
-##  Let's Build Something!
+## Automation with n8n
 
-I'm always interested in learning, building projects, and exploring new technologies.
+I'm exploring **n8n** to build automated workflows and connect different applications, APIs, databases, and AI services.
+
+**Ideas I'm exploring:**
+
+`APIs` → `n8n` → `Automation` → `Database` → `AI`
+
+---
+
+## Let's Build Something
+
+I'm always interested in learning, building projects, automating workflows, and exploring new technologies.
 
 <p align="center">
-  <b> Code ----> Build ----> Learn ----> Improve</b>
+  <b>Code → Automate → Build → Learn → Improve</b>
 </p>
