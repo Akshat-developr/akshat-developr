@@ -58,16 +58,6 @@ I'm a passionate **Full-Stack Developer** who enjoys building web applications, 
   <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="45" height="45" alt="n8n"/>
 </p>
 
----
-
-## GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshat-developr&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
 ## Problem Solving
 
 <p align="center">
