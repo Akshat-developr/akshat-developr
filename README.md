@@ -102,10 +102,10 @@ I regularly practice **Data Structures & Algorithms** and work on improving my p
 
 ---
 
-## 💬 Let's Build Something!
+##  Let's Build Something!
 
 I'm always interested in learning, building projects, and exploring new technologies.
 
 <p align="center">
-  <b>💻 Code ----> Build ----> Learn ----> Improve</b>
+  <b> Code ----> Build ----> Learn ----> Improve</b>
 </p>
