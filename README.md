@@ -26,48 +26,49 @@ I'm a passionate **Full-Stack Developer** who enjoys building web applications, 
 
 ### Languages
 
-<p align="left" style="margin-right: 15 px;" >
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5"/>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" style="margin-right: 10px;" alt="C++"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" style="margin-right: 10px;" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" style="margin-right: 10px;" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" style="margin-right: 10px;" alt="HTML5"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3"/>
 </p>
 
 ### Frontend
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="45" height="45" alt="Bootstrap"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" style="margin-right: 10px;" alt="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="45" height="45" style="margin-right: 10px;" alt="Bootstrap"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45" alt="Tailwind CSS"/>
 </p>
 
-### Backend 
+### Backend
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45" alt="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45" height="45" alt="Express.js"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45" style="margin-right: 10px;" alt="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45" height="45" alt="Express.js"/>
 </p>
-  
-### Databases
-<p align="left">
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45" alt="MongoDB"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL"/>
+### Databases
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45" style="margin-right: 10px;" alt="MongoDB"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" style="margin-right: 10px;" alt="MySQL"/>
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="45" height="45" alt="SQLite"/>
 </p>
-
 
 ### Tools & Automation
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="45" height="45" alt="Postman"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="45" height="45" style="margin-right: 10px;" alt="Postman"/>
   <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="45" height="45" alt="n8n"/>
 </p>
 
-### Others 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+### Others
 
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+</p>
 
 ---
 
