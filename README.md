@@ -26,7 +26,7 @@ I'm a passionate **Full-Stack Developer** who enjoys building web applications, 
 
 ### Languages
 
-<p align="left" style="margin-right: 10px;" >
+<p align="left" style="margin-right: 15 px;" >
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
